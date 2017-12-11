@@ -13,6 +13,7 @@ public class OpenTokConfig {
     // Replace with a generated token (from the dashboard or using an OpenTok server SDK)
     public static final String TOKEN = "T1==cGFydG5lcl9pZD00NjAxODQ3MiZzaWc9YTViZGY2N2E4MzEyM2EwNTc5MjA1ZWZkYTAzZjJmNjJkY2JkY2UwYjpzZXNzaW9uX2lkPTJfTVg0ME5qQXhPRFEzTW41LU1UVXhNamt4TkRFek5UWTVNSDVLTWtwTkwyaElNVFl3UmsxSGQxQnVhbGc1WWtGcVRsWi1VSDQmY3JlYXRlX3RpbWU9MTUxMjk4MjY2NCZyb2xlPXB1Ymxpc2hlciZub25jZT0xNTEyOTgyNjY0LjQyMzcxNzU1NTk2NTE1JmV4cGlyZV90aW1lPTE1MTM1ODc0NjQ=";
 
+
     /*                           ***** OPTIONAL *****
      If you have set up a server to provide session information replace the null value
      in CHAT_SERVER_URL with it.
