@@ -17,7 +17,6 @@ public class OpenTokConfig {
 
 
 
-
     /*                           ***** OPTIONAL *****
      If you have set up a server to provide session information replace the null value
      in CHAT_SERVER_URL with it.
