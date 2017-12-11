@@ -6,12 +6,16 @@ public class OpenTokConfig {
     // *** Fill the following variables using your own Project info from the OpenTok dashboard  ***
     // ***                      https://dashboard.tokbox.com/projects                           ***
 
+
     // Replace with your OpenTok API key
     public static final String API_KEY = "46018472";
     // Replace with a generated Session ID
     public static final String SESSION_ID = "2_MX40NjAxODQ3Mn5-MTUxMjkxNDEzNTY5MH5KMkpNL2hIMTYwRk1Hd1Bualg5YkFqTlZ-UH4";
     // Replace with a generated token (from the dashboard or using an OpenTok server SDK)
     public static final String TOKEN = "T1==cGFydG5lcl9pZD00NjAxODQ3MiZzaWc9YTViZGY2N2E4MzEyM2EwNTc5MjA1ZWZkYTAzZjJmNjJkY2JkY2UwYjpzZXNzaW9uX2lkPTJfTVg0ME5qQXhPRFEzTW41LU1UVXhNamt4TkRFek5UWTVNSDVLTWtwTkwyaElNVFl3UmsxSGQxQnVhbGc1WWtGcVRsWi1VSDQmY3JlYXRlX3RpbWU9MTUxMjk4MjY2NCZyb2xlPXB1Ymxpc2hlciZub25jZT0xNTEyOTgyNjY0LjQyMzcxNzU1NTk2NTE1JmV4cGlyZV90aW1lPTE1MTM1ODc0NjQ=";
+
+
+
 
 
     /*                           ***** OPTIONAL *****
